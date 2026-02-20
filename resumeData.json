@@ -3,10 +3,10 @@
     "imagebaseurl":"https://oscillations-waves.github.io/",
     "name":"Shravani Roy",
     "occupation":"Software Engineer",
-    "description":"I think Lizbeth Salander is pretty cool.",
+    "description":"Software Engineer focused on building reliable and user-friendly products.",
     "image":"profilepic.jpg",
-    "bio":"I run around in my head a lot. Usually always right, or off by a bit. Friendly. Helpful if asked nicely. Like listening to silences.",
-    "contactmessage":"Queries? Drop me a message or the old-fashioned telephone also works",
+    "bio":"I enjoy solving practical engineering problems, collaborating with teams, and continuously improving systems through clean, maintainable code.",
+    "contactmessage":"Have a project idea or opportunity? Feel free to reach out by email or phone.",
     "email": "shravani.roy12@gmail.com",
     "phone": "9163785942",
     "address":{
@@ -19,70 +19,39 @@
     "resumedownload":"https://oscillations-waves.github.io/",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
         "url":"https://github.com/oscillations-waves",
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"website",
+        "url":"https://oscillations-waves.github.io/",
+        "className":"fa fa-globe"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Core technologies and tools I use to design, build, and maintain production software.",
     "education":[
       {
         "school":"Netaji Subhash Engineering College",
         "degree":"Bachelors in Computer Science",
         "graduated":"July 2019",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Built a strong foundation in computer science fundamentals, software development practices, and collaborative project work."
       }
     ],
     "work":[
       {
         "company":"Cerner Corporation",
-        "title":"Gullible Software Intern ",
+        "title":"Software Engineering Intern",
         "years":"Feb 2019 - July 2019",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Contributed to production-facing features, supported debugging and testing efforts, and learned enterprise development workflows."
       },
       {
         "company":"Cerner Corporation",
-        "title":"Fresh Software Engineer",
+        "title":"Software Engineer",
         "years":"July 2019 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Develop and maintain scalable applications, collaborate across teams, and deliver improvements focused on quality, performance, and usability."
       }
     ],
     "skills":[
@@ -123,46 +92,46 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Portfolio Website",
+        "category":"Personal portfolio and resume website.",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://oscillations-waves.github.io/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"GitHub Projects",
+        "category":"A collection of personal and learning projects.",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/oscillations-waves"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Frontend Experiments",
+        "category":"UI and interaction experiments built with modern web tools.",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://github.com/oscillations-waves"
       },
       {
         "title":"Resume Website",
-        "category":"A React based resume website template",
+        "category":"This React-based portfolio tailored for my profile.",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://oscillations-waves.github.io/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Engineering Sandbox",
+        "category":"A space to prototype and test new development ideas.",
         "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://github.com/oscillations-waves"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Shravani is dependable, thoughtful in design discussions, and consistently focused on delivering maintainable solutions.",
+        "user":"Colleague"
       },
       {
-        "text":"That Shravani Roy must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Great collaborator who quickly understands requirements and executes with clarity and ownership.",
+        "user":"Project Teammate"
       }
     ]
   }
