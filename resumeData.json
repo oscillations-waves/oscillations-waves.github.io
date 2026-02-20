@@ -1,137 +1,141 @@
 {
   "main": {
-    "imagebaseurl":"https://oscillations-waves.github.io/",
-    "name":"Shravani Roy",
-    "occupation":"Software Engineer",
-    "description":"Software Engineer focused on building reliable and user-friendly products.",
-    "image":"profilepic.jpg",
-    "bio":"I enjoy solving practical engineering problems, collaborating with teams, and continuously improving systems through clean, maintainable code.",
-    "contactmessage":"Have a project idea or opportunity? Feel free to reach out by email or phone.",
+    "imagebaseurl": "https://oscillations-waves.github.io/",
+    "name": "Shravani Roy",
+    "occupation": "Senior Software Engineer",
+    "description": "Senior Software Engineer building scalable cloud-native platforms with Go, Rails, React, and Kubernetes.",
+    "image": "profilepic.jpg",
+    "bio": "I focus on high-impact platform engineering across distributed systems, API infrastructure, and developer tooling. Key outcomes include building an LLM-powered log analysis platform, implementing RBAC-based authorization for multi-tenant services, and improving API reliability through distributed caching and CI/CD automation.",
+    "contactmessage": "Have a project idea or opportunity? Feel free to reach out by email or phone.",
     "email": "shravani.roy12@gmail.com",
     "phone": "9163785942",
-    "address":{
-      "street":"(Your Street)",
-      "city":"Bengaluru",
-      "state":"Karnataka",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Bengaluru",
+      "state": "Karnataka",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "https://oscillations-waves.github.io/",
-    "resumedownload":"https://oscillations-waves.github.io/",
-    "social":[
+    "resumedownload": "https://oscillations-waves.github.io/",
+    "social": [
       {
-        "name":"github",
-        "url":"https://github.com/oscillations-waves",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/oscillations-waves",
+        "className": "fa fa-github"
       },
       {
-        "name":"website",
-        "url":"https://oscillations-waves.github.io/",
-        "className":"fa fa-globe"
+        "name": "website",
+        "url": "https://oscillations-waves.github.io/",
+        "className": "fa fa-globe"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Core technologies and tools I use to design, build, and maintain production software.",
-    "education":[
+  "resume": {
+    "skillmessage": "Core technologies and outcomes across my engineering journey: Go platform services, Kubernetes-native delivery, secure access controls, and measurable production reliability gains.",
+    "education": [
       {
-        "school":"Netaji Subhash Engineering College",
-        "degree":"Bachelors in Computer Science",
-        "graduated":"July 2019",
-        "description":"Built a strong foundation in computer science fundamentals, software development practices, and collaborative project work."
+        "school": "Netaji Subhash Engineering College",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "July 2019",
+        "description": "Built a strong foundation in computer science fundamentals, software development practices, and collaborative project work."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Cerner Corporation",
-        "title":"Software Engineering Intern",
-        "years":"Feb 2019 - July 2019",
-        "description":"Contributed to production-facing features, supported debugging and testing efforts, and learned enterprise development workflows."
+        "company": "Progress Chef",
+        "title": "Software Engineer → Associate Senior Software Engineer → Senior Software Engineer",
+        "years": "Jan 2022 - Present",
+        "description": "2022-2023: Built licensing/payment-wall capabilities, automated cross-service PR workflows, and strengthened security via dependency/CVE remediation. 2024-Present: Led LogGPT (LLM-based log analysis), architected a custom Go RBAC authorization service, and improved platform throughput by 15-17 req/s with distributed KeyDB caching, increasing success rates by up to 80%."
       },
       {
-        "company":"Cerner Corporation",
-        "title":"Software Engineer",
-        "years":"July 2019 - Present",
-        "description":"Develop and maintain scalable applications, collaborate across teams, and deliver improvements focused on quality, performance, and usability."
+        "company": "Cerner Corporation",
+        "title": "Intern → Software Engineer",
+        "years": "Feb 2019 - Dec 2021",
+        "description": "Built scalable Rails + React + TypeScript features, delivered reusable UI components, and improved engineering quality with automated tests (RSpec/Jest/Selenium) and CI/CD-driven releases."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Ruby",
-        "level":"80%"
+        "name": "Go",
+        "level": "90%"
       },
       {
-        "name":"ReactJs",
-        "level":"60%"
+        "name": "Ruby on Rails",
+        "level": "85%"
       },
       {
-        "name":"Typescript",
-        "level":"55%"
+        "name": "React",
+        "level": "85%"
       },
       {
-        "name":"Redux",
-        "level":"70%"
+        "name": "TypeScript",
+        "level": "80%"
       },
       {
-        "name":"CSS",
-        "level":"50%"
+        "name": "Kubernetes",
+        "level": "80%"
       },
       {
-        "name":"Git",
-        "level":"80%"
+        "name": "AWS",
+        "level": "75%"
       },
       {
-        "name":"Node",
-        "level":"50%"
+        "name": "CI/CD",
+        "level": "80%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "MySQL",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Portfolio Website",
-        "category":"Personal portfolio and resume website.",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://oscillations-waves.github.io/"
+        "title": "2024-Present · Progress Chef",
+        "category": "Led LogGPT, built custom Go RBAC authorization, and delivered major performance gains through distributed caching.",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://github.com/oscillations-waves"
       },
       {
-        "title":"GitHub Projects",
-        "category":"A collection of personal and learning projects.",
-        "image":"fury-fighting-gear.jpg",
-        "url":"https://github.com/oscillations-waves"
+        "title": "2023 · Platform Reliability",
+        "category": "Improved deployment and operational reliability via CI/CD enhancements, cloud automation, and security hardening.",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://github.com/oscillations-waves"
       },
       {
-        "title":"Frontend Experiments",
-        "category":"UI and interaction experiments built with modern web tools.",
-        "image":"original-thai-food.jpg",
-        "url":"https://github.com/oscillations-waves"
+        "title": "2022 · Platform Foundations",
+        "category": "Implemented licensing/payment-wall capabilities and automated cross-service integration workflows.",
+        "image": "original-thai-food.jpg",
+        "url": "https://github.com/oscillations-waves"
       },
       {
-        "title":"Resume Website",
-        "category":"This React-based portfolio tailored for my profile.",
-        "image":"resume-website.jpg",
-        "url":"https://oscillations-waves.github.io/"
+        "title": "2019-2021 · Cerner",
+        "category": "Built and shipped full-stack features with Rails, React, and TypeScript; established test automation and release quality practices.",
+        "image": "resume-website.jpg",
+        "url": "https://github.com/oscillations-waves"
       },
       {
-        "title":"Engineering Sandbox",
-        "category":"A space to prototype and test new development ideas.",
-        "image":"smirkspace.jpg",
-        "url":"https://github.com/oscillations-waves"
+        "title": "Career Highlights",
+        "category": "End-to-end ownership across architecture, security, DevEx, and production performance in cloud-native platforms.",
+        "image": "smirkspace.jpg",
+        "url": "https://oscillations-waves.github.io/"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Shravani is dependable, thoughtful in design discussions, and consistently focused on delivering maintainable solutions.",
-        "user":"Colleague"
+        "text": "Shravani is dependable, thoughtful in design discussions, and consistently focused on delivering maintainable solutions.",
+        "user": "Colleague"
       },
       {
-        "text":"Great collaborator who quickly understands requirements and executes with clarity and ownership.",
-        "user":"Project Teammate"
+        "text": "Great collaborator who quickly understands requirements and executes with clarity and ownership.",
+        "user": "Project Teammate"
       }
     ]
   }
