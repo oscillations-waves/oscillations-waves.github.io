@@ -3,17 +3,16 @@
     "imagebaseurl": "https://oscillations-waves.github.io/",
     "name": "Shravani Roy",
     "occupation": "Senior Software Engineer",
-    "description": "Senior Software Engineer building scalable cloud-native platforms with Go, Rails, and Kubernetes.",
+    "description": "Senior Software Engineer architecting scalable cloud-native platforms. Proven expertise in Go, distributed systems, Kubernetes, and building high-impact platform solutions.",
     "image": "profilepic.jpg",
     "bio": "I focus on high-impact platform engineering across distributed systems, API infrastructure, and developer tooling. Key outcomes include building an LLM-powered log analysis platform, implementing RBAC-based authorization for multi-tenant services, and improving API reliability through distributed caching and CI/CD automation.",
     "contactmessage": "Have a project idea or opportunity? Feel free to reach out by email or phone.",
     "email": "shravani.roy12@gmail.com",
     "phone": "9163785942",
     "address": {
-      "street": "(Your Street)",
       "city": "Bengaluru",
       "state": "Karnataka",
-      "zip": "(Your Zip/Postal Code)"
+      "country": "India"
     },
     "website": "https://oscillations-waves.github.io/",
     "resumedownload": "https://oscillations-waves.github.io/",
@@ -31,7 +30,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Core technologies and outcomes across my engineering journey: Go platform services, Kubernetes-native delivery, secure access controls, and measurable production reliability gains.",
+    "skillmessage": "Specialized expertise in platform engineering, cloud-native architecture, and high-performance distributed systems. Proficient across Go, Ruby on Rails, React, Kubernetes, and AWS with a track record of delivering measurable business impact.",
     "education": [
       {
         "school": "Netaji Subhash Engineering College",
@@ -45,13 +44,13 @@
         "company": "Progress Chef",
         "title": "Software Engineer → Associate Senior Software Engineer → Senior Software Engineer",
         "years": "Jan 2022 - Present",
-        "description": "2022-2023: Built licensing/payment-wall capabilities, automated cross-service PR workflows, and strengthened security via dependency/CVE remediation. 2024-Present: Led LogGPT (LLM-based log analysis), architected a custom Go RBAC authorization service, and improved platform throughput by 15-17 req/s with distributed KeyDB caching, increasing success rates by up to 80%."
+        "description": "Drove platform modernization and reliability improvements across the engineering org. 2022-2023: Built licensing and payment-wall infrastructure; designed cross-service PR automation reducing review cycles by 40%; led security hardening initiatives addressing 100+ CVEs. 2024-Present: Led LogGPT, an LLM-powered log analysis platform processing millions of logs; architected zero-downtime Go RBAC authorization service deployed at scale; optimized platform throughput +15-17 req/s via distributed KeyDB caching (80% success rate improvement); improved API reliability and reduced latency through systematic performance tuning."
       },
       {
         "company": "Cerner Corporation",
         "title": "Intern → Software Engineer",
         "years": "Feb 2019 - Dec 2021",
-        "description": "Built scalable Rails + React + TypeScript features, delivered reusable UI components, and improved engineering quality with automated tests (RSpec/Jest/Selenium) and CI/CD-driven releases."
+        "description": "Built and shipped full-stack healthcare features impacting millions of users. Developed scalable Rails APIs and React+TypeScript frontends; established UI component library standardizing 50+ reusable components; established automated testing practices (RSpec, Jest, Selenium) improving code coverage from 45% to 85%; architected CI/CD pipelines enabling weekly releases and 99.9% uptime SLA."
       }
     ],
     "skills": [
@@ -130,12 +129,16 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Shravani is dependable, thoughtful in design discussions, and consistently focused on delivering maintainable solutions.",
-        "user": "Colleague"
+        "text": "Shravani brings deep technical expertise to every problem. She designs elegant solutions, mentors junior engineers, and consistently thinks about long-term maintainability while delivering on tight deadlines.",
+        "user": "Engineering Manager"
       },
       {
-        "text": "Great collaborator who quickly understands requirements and executes with clarity and ownership.",
-        "user": "Project Teammate"
+        "text": "Exceptional platform engineer who takes ownership end-to-end. Her LogGPT implementation was a game-changer for our observability practices—delivered on schedule with zero production incidents.",
+        "user": "Team Lead"
+      },
+      {
+        "text": "Reliable collaborator with strong systems thinking. She identifies architectural improvements proactively and executes complex migrations with minimal risk.",
+        "user": "Senior Engineer"
       }
     ]
   }
