@@ -3,7 +3,7 @@
     "imagebaseurl": "https://oscillations-waves.github.io/",
     "name": "Shravani Roy",
     "occupation": "Senior Software Engineer",
-    "description": "Senior Software Engineer building scalable cloud-native platforms with Go, Rails, React, and Kubernetes.",
+    "description": "Senior Software Engineer building scalable cloud-native platforms with Go, Rails, and Kubernetes.",
     "image": "profilepic.jpg",
     "bio": "I focus on high-impact platform engineering across distributed systems, API infrastructure, and developer tooling. Key outcomes include building an LLM-powered log analysis platform, implementing RBAC-based authorization for multi-tenant services, and improving API reliability through distributed caching and CI/CD automation.",
     "contactmessage": "Have a project idea or opportunity? Feel free to reach out by email or phone.",
